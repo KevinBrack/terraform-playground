@@ -1,0 +1,3 @@
+.terraform
+ip_addresses.txt
+lambda_function_payload.zip
